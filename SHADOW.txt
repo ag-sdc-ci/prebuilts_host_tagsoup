@@ -1,0 +1,6 @@
+shadow prebuilt repo: tagsoup (host)
+  aur package: tagsoup (PKGBUILD build, any)
+  registry: arch/tagsoup v1.2.1-1
+  api-level: 34 (branch 34-20261016; JVM jars are API-agnostic)
+  layout: .pkg.tar.zst blobs at root, jars in lib64/
+  date: 2026-10-16

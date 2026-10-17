@@ -1,0 +1,10 @@
+package {
+    default_applicable_licenses: ["Android-Apache-2.0"],
+}
+
+java_import {
+    name: "tagsoup",
+    host_supported: true,
+    jars: ["lib64/tagsoup.jar"],
+    sdk_version: "core_current",
+}
